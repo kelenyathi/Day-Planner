@@ -4,7 +4,7 @@ A simple Web Application for calendar application that allows a user to save eve
 
 Getting Started:
 
-Simply open up the deployed link (http://localhost:52333/index.html) and explore the website:
+Simply open up the deployed link https://kelenyathi.github.io/Day-Planner/ and explore the website:
 
 Installation
 
